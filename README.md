@@ -1,6 +1,8 @@
 # v2hero  [![Build Status](https://travis-ci.org/warther/v2hero.svg?branch=core-3.8)](https://travis-ci.org/warther/v2hero)
 本项目是一个利用Travis-CI部署Docker到Heroku 的学习示例。
-
+# 一键部署 v2ray 到 heroku  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+- - -
 如果为您的学习提供了帮助，欢迎给一个Star ^_^
 
 * 部署方法
